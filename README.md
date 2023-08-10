@@ -11,9 +11,11 @@ To edit the code clone the repo to your local machine. <br>
 In your terminal run the command 'npm -s i' <br>
 To see the react app on your local host run 'npm start' <br>
 To build the app run the command 'npm run build'<br>
-To use the app as is visit: 
+To use the app as is visit: https://cherylhemphill.github.io/project-tracker/
 
 ## Usage
+
+https://github.com/CherylHemphill/project-tracker/assets/126039394/fc478f0e-24ca-43f2-b772-ec3c704d7039
 
 
 ## License

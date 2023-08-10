@@ -10,7 +10,7 @@ Life keeps us busy and sometimes we need help keeping up with our lastest projec
 To edit the code clone the repo to your local machine. <br>
 In your terminal run the command 'npm -s i' <br>
 To see the react app on your local host run 'npm start' <br>
-To build the app run the command 'npm build'<br>
+To build the app run the command 'npm run build'<br>
 To use the app as is visit: 
 
 ## Usage
